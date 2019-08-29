@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_domain_api">http://developduck.cafe24.com</string>
+
+    <string name="app_name">Tagfeed</string>
+
+    <string name="common_email">Email</string>
+    <string name="common_password">Password</string>
+
+    <string name="btn_thinking">Thinking</string>
+    <string name="btn_exception">Exception</string>
+    <string name="btn_crash">Crash</string>
+    <string name="btn_test">Test</string>
+    <string name="btn_remote_config">Remote Config</string>
+    <string name="btn_analytics">Analytics</string>
+    <string name="btn_authentication">Authentication</string>
+    <string name="btn_ml_kit_ocr">MK Kit(OCR)</string>
+    <string name="btn_ml_kit_landmark">ML Kit(Landmark)</string>
+    <string name="btn_test_data_clear">Data Clear</string>
+    <string name="btn_start_camera">Start Camera</string>
+    <string name="btn_detect_shape">Detect Shape</string>
+    <string name="btn_sign_in">Sign In</string>
+    <string name="btn_sign_up">Sign Up</string>
+    <string name="btn_sample">Sample</string>
+    <string name="btn_action">Action</string>
+    <string name="btn_clear">Clear</string>
+
+    <string name="title_sign_in">Sign In</string>
+    <string name="title_sign_up">Sign Up</string>
+
+    <string name="tab_sign_in">Sign In</string>
+    <string name="tab_sign_up">Sign Up</string>
+
+    <string name="edt_hint_email">@string/common_email</string>
+    <string name="edt_hint_password">@string/common_password</string>
+
+    <string name="error_the_data_is_empty">The data is empty</string>
+    <string name="error_this_field_is_required">This field is required</string>
+    <string name="error_please_enter_a_valid_email_address">Please enter a valid email address</string>
+    <string name="error_your_password_must_be_at_least_8_characters_long">Your password must be at least 8 characters long</string>
+</resources>
